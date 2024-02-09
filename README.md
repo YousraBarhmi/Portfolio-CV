@@ -1,2 +1,2 @@
 # Portfolio-CV
-dynamic personal CV using HTML and Bootstrap CSS
+dynamic personal CV using only HTML and Bootstrap CSS
